@@ -53,7 +53,23 @@ googleAnalytics = ""
 [[params.navigation.links]]
       name = "Professional Development"
       url = "profdev"
-
+      
+      [[params.navigation.links]]
+      name = "Areas of Teaching Competence"
+      url = "areas"
+      
+       [[params.navigation.links]]
+      name = "Positions & Service"
+      url = "positions"
+      
+        [[params.navigation.links]]
+      name = "Honors & Awards"
+      url = "honors"
+      
+        [[params.navigation.links]]
+      name = "Teaching Philosophy"
+      url = "philosophy"
+      
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
     # code below if you need more links. Buttons work in the same way.
