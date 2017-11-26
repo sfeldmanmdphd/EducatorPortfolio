@@ -15,10 +15,11 @@ draft: false
 As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material.
 
 ### Antibodies and Isotypes — What do antibodies do?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clcMj25T518?rel=0" frameborder="0" allowfullscreen></iframe>
-{{< youtube clcMj25T518 >}}
 
 ### Lymphocyte Development — How do B cells develop? (05:20)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FMBjJfaiIzw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### B Cell Activation — How are B cells activated? (05:50)
