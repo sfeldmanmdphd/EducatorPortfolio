@@ -2,7 +2,7 @@
 title: "My CV"
 description: "My CV"
 slug: "cv"
-image: "Poster.jpg"
+image: "Diplomas.jpg"
 keywords: ""
 categories:
     - ""
