@@ -47,7 +47,7 @@ googleAnalytics = ""
       url = "about"
 
       [[params.navigation.links]]
-      name = "Training"
+      name = "Education & Training"
       url = "training"
 
 [[params.navigation.links]]
