@@ -2,7 +2,7 @@
 title: "M3 Immunology"
 description: "As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material."
 slug: "m3immunology"
-image: ../lightboard.png
+image: "lightboard.png"
 keywords: ""
 categories:
     - ""
