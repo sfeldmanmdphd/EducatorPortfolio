@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "/EducatorPortfolio/"
+baseURL = "https://sfeldmanmdphd.github.io/EducatorPortfolio"
 languageCode = "en-us"
 title = "Scott Feldman"
 theme = "forty"
