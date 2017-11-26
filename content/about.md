@@ -10,6 +10,4 @@ date: 2017-11-25T19:23:11-05:00
 draft: false
 ---
 
-# About me
-
 I am from Florida. I went to medical school in Chicago. I like running and biking and food and sharing fun (anonymous) stories of fun and funny patients. 
