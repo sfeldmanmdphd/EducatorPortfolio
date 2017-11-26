@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scott Feldman</title>
+    <title>Categories on Scott Feldman</title>
     <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/</link>
-    <description>Recent content on Scott Feldman</description>
+    <description>Recent content in Categories on Scott Feldman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Nov 2017 19:57:03 -0500</lastBuildDate>
@@ -12,88 +12,48 @@
     
     
     <item>
-      <title>Fellows Immunology Course</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/fellows/</link>
+      <title></title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/</link>
       <pubDate>Sat, 25 Nov 2017 19:57:03 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/fellows/</guid>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/cv/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fellows Immunology Course</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/fellows-immunology-course/</link>
+      <pubDate>Sat, 25 Nov 2017 19:57:03 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/fellows-immunology-course/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Student Invited Lecture</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/medical-student-invited-lecture/</link>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-invited-lecture/</link>
       <pubDate>Sat, 25 Nov 2017 19:30:09 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/medical-student-invited-lecture/</guid>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-invited-lecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Student Small Groups</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/medical-student-small-groups/</link>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-small-groups/</link>
       <pubDate>Sat, 25 Nov 2017 19:30:00 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/medical-student-small-groups/</guid>
-      <description>Evaluations “Dr. Feldman has made MDM small groups extremely interactive, and I feel as though I really learn the material both by preparing for these sessions and due to his teaching/review of concepts.” “Dr. Feldman was an excellent MDM leader; he provided examples of times he used MDM principles in treating actual patients, and did a great job of explaining principles which the group didn&amp;rsquo;t understand.” “Dr. Feldman does a great job in guiding our group through the assignment, emphasizing the important aspects and relating it to what is clinically relevant in reality.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/about/</link>
-      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
-      
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/about/</guid>
-      <description>I grew up in Ft. Lauderdale, Florida. I went to medical school in Chicago and fell in love with the city, although Philadelphia is growing on me since August 2017. When I’m not seeing patients or teaching, I like enjoy running, biking, cooking, finding a new ethnic restaurant, and sharing fun (anonymous, HIPAA-friendly) stories of funny, interesting, memorable patients. Medium-term, I would like to be course director of basic immunology for first-year medical students, and allergy/immunology fellowship program director.</description>
-    </item>
-    
-    <item>
-      <title>Medical Training, Licensure, and Certification</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/training/</link>
-      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
-      
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/training/</guid>
-      <description>Education *2002 B.S. Biochemistry, University of Florida. *2012 M.D. University of Illinois at Chicago College of Medicine. *2012 Ph.D. Immunology, Univ. of IL at Chicago College of Medicine
-Postdoctoral Training *2012-2013 Intern in Internal Medicine, Icahn School of Medicine at Mount Sinai, New York, NY. *2013-2015 Resident in Internal Medicine, Icahn School of Medicine at Mount Sinai, New York, NY. *2015-2017 Fellow in Allergy / Immunology, Northwestern University Feinberg School of Medicine, Chicago, IL.</description>
-    </item>
-    
-    <item>
-      <title>Professional Development in Medical Education and Leadership</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/about/</link>
-      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
-      
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/about/</guid>
-      <description> 2017 ACAAI Leadership Summit: Generation Next Participant. 2015-2017 Medical Education Clinical Scholars Program, Northwestern University Feinberg School of Medicine, Chicago, IL. 2014 Harvard-Macy Institute Program for Post-Graduate Trainees: Future Academic Clinician-Educators  </description>
-    </item>
-    
-    <item>
-      <title>Selected curriculum vitæ</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/cv/</link>
-      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
-      
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/cv/</guid>
-      <description>Positions in Medical Education  2017Assistant Professor of Medicine 2017Associate Fellowship Program Director 2017Course Director, Fellows Immunology Course 2016–20172016-2017 Chief Fellow  Curriculum Development  2017Fellows Immunology Course 2017M3 Immunology Online Module 2013–2015Medical Education Track for Internal Medicine Residency Program at Icahn School of Medicine at Mount Sinai, Co-founder
- Co-developed curriculum outline and assessment methods Facilitated implementation of pilot track year   2010MSTP Back-to-M3 Student Transition Course</description>
-    </item>
-    
-    <item>
-      <title>M3 Immunology</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</link>
-      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</guid>
-      <description>As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material.
-Antibodies and Isotypes — What do antibodies do?  Lymphocyte Development — How do B cells develop? (05:20)  B Cell Activation — How are B cells activated? (05:50) Immunodeficiencies — (Part 1 of 2) (05:54)​ Immunodeficiencies — (Part 2 of 2) (04:04) Evaluations   “Dr.</description>
-    </item>
-    
-    <item>
-      <title>M3 Immunology</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</link>
-      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</guid>
-      <description>As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material.
-Antibodies and Isotypes — What do antibodies do?  Lymphocyte Development — How do B cells develop? (05:20)  B Cell Activation — How are B cells activated? (05:50) Immunodeficiencies — (Part 1 of 2) (05:54)​ Immunodeficiencies — (Part 2 of 2) (04:04) Evaluations   “Dr.</description>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-small-groups/</guid>
+      <description></description>
     </item>
     
   </channel>
