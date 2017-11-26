@@ -3,7 +3,7 @@ branches:
   - master
 language: go
 go:
-- 1.7.1
+- 1.8.3
 before_script:
 - git clone https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG.git $TRAVIS_REPO_SLUG
 - cd $TRAVIS_REPO_SLUG
