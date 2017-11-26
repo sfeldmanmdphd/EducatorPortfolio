@@ -41,20 +41,8 @@ googleAnalytics = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Home"
-      url = "#"
-
-    [[params.navigation.links]]
-      name = "Teaching"
-      url = "teaching"
-
-    [[params.navigation.links]]
-      name = "Evaluations"
-      url = "teaching/evaluations"
-
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "About"
+      url = "about"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
