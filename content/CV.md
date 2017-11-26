@@ -1,8 +1,8 @@
 ---
 title: "My CV"
 description: "My CV"
-slug: "CV"
-image: "../Poster.jpg"
+slug: "cv"
+image: "Poster.jpg"
 keywords: ""
 categories:
     - ""
@@ -10,4 +10,4 @@ date: 2017-11-25T19:23:11-05:00
 draft: false
 ---
 
-This is an itemized list of things on my CV.
+- This is an itemized list of things on my CV.
