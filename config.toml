@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://sfeldmanmdphd.github.io/EducatorPortfolio/"
+baseURL = "/EducatorPortfolio/"
 languageCode = "en-us"
 title = "Scott Feldman"
 theme = "forty"
@@ -43,7 +43,7 @@ googleAnalytics = ""
     [[params.navigation.links]]
       name = "About Me"
       url = "about"
-      
+
       [[params.navigation.links]]
       name = "My CV"
       url = "CV"
