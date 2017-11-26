@@ -1,0 +1,28 @@
+branches:
+  only:
+  - master
+language: go
+go:
+- 1.7.1
+before_script:
+- git clone https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG.git $TRAVIS_REPO_SLUG
+- cd $TRAVIS_REPO_SLUG
+- git checkout -qf $TRAVIS_BRANCH
+- git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
+- go get -u -v github.com/spf13/hugo
+- git config --global user.email "malecki@gmail.com"
+- git config --global user.name "malecki"
+script:
+- git clone https://github.com/MarcusVirg/forty ./themes/forty
+- hugo
+after_success:
+- git checkout gh-pages
+- cp -r public/* .
+- rm -rf public
+- git add .
+- git commit -m "Updating gh-pages" || true
+- git push origin gh-pages > /dev/null 2>&1 || true
+
+env:
+  global:
+    secure: IrV8MKalYlhGQ2GIr6xtXBcL4oWLiPRFzQEurhHDQ0gkMnlMpOSlDbdmtI1cGOsq0bxhIysLr+2Bexj4TnAmM1l52C6u8BN/xfc2uUeK9LXsZn4hiUXStsUhKFCV8RS/IQczodkhzgP0Rm+7ljpc+Lb/IVIYSrO6W/KCzRZ9zyRosnEQhhYDlyVLd/V87rzJYTFt+KNXyMAaS0wWdbxt1E/tusonEVuX+8+RKFlkIVu7GNVHzMe30QESugk01qoj0vexb/hDsZTURjGpxgQeeyWEFJs+Y7PYwp/tuGhzy5j8bAgKrdjfzhZ2+0sY353CLdYTRB1XqMaB34hD/WAGGIOKfILeM31ULXWQoLltFHdX7d1vjO5XTJv1vG0pCTS2l/NndCcfvUIFp/SQperDpW6jLWqzi0G6u0Eozxd+kCFr8HHYhOrilsZlQmZwLmFuenpi/VBF0WuMVhEZsJZJ1QCYWmyZyw770lvqarkIvVGmrdTmsQqe0T6l6fVtXpK8ns8fOBs3lI518dLY4nl2WPxfA5xKw8Du3w2oKEko4PI6VuoC1H43nb3P7hHYbgTqKKauJg4KgLZPTbiiW3qbI8ZjzwCQvlXAPSNs3evlUB/pmZ8WnqPWg2kdTPfTPqtbxZx5t9156bAYCalO3eFRkjwNjDoIx6Egjq+W7fXyEsI=
