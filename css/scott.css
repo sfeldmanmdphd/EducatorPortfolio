@@ -1,0 +1,9 @@
+.image.main {
+    display: inline-block;
+    width: 40%;
+    float: right;
+    margin: 0 2.5em;
+}
+.image.main img {
+        float: right;
+}
