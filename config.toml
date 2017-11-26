@@ -148,7 +148,7 @@ googleAnalytics = ""
 
   # Contact section
   [params.contact]
-    enable = true
+    enable = false
     buttonSend = "Send message"
     buttonClear = "Clear"
 
@@ -184,7 +184,7 @@ googleAnalytics = ""
 
   # Footer section
   [params.footer]
-    enable = true
+    enable = false
     copyright = "2017 Scott Feldman"
 
     [[params.footer.social]]
