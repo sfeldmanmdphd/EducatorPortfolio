@@ -41,7 +41,7 @@ googleAnalytics = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "About"
+      name = "About Me"
       url = "about"
 
     # Add custom links here by uncommenting code below. To remove links just delete
