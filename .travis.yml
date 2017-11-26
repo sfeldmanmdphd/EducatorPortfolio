@@ -8,13 +8,11 @@ before_script:
 - git clone https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG.git $TRAVIS_REPO_SLUG
 - cd $TRAVIS_REPO_SLUG
 - git checkout -qf $TRAVIS_BRANCH
-- git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
-- go get -u -v github.com/spf13/hugo
 - git config --global user.email "malecki@gmail.com"
 - git config --global user.name "malecki"
 script:
 - git clone https://github.com/MarcusVirg/forty ./themes/forty
-- hugo
+- bin/hugo
 after_success:
 - git checkout gh-pages
 - cp -r public/* .
