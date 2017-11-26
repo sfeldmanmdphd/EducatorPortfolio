@@ -2,7 +2,7 @@
 title: "Honors & Awards"
 description: "Honors & Awards"
 slug: "honors"
-image: "Graduation.jpg"
+image: "graduation.jpg"
 keywords: ""
 categories:
     - ""
