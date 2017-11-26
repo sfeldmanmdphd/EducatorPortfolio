@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://sfeldmanmdphd.github.io/EducatorPortfolio/"
 languageCode = "en-us"
-title = "Forty"
+title = "Scott Feldman"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
