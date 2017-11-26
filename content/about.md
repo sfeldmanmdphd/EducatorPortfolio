@@ -12,4 +12,4 @@ draft: false
 
 # About me
 
-I am from Florida
+I am from Florida. I went to medical school in Chicago. I like running and biking and food and sharing fun (anonymous) stories of fun and funny patients. 
