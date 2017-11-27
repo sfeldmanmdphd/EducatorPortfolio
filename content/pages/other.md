@@ -1,8 +1,8 @@
 ---
-title: "Selected curriculum vitæ"
-description: ""
-slug: "cv"
-image: "../scott-1.jpg"
+title: "Other Curriculum Development & Direct Teaching"
+description: "Miscellaneous other projects and lectures"
+slug: "other"
+image: "WhiteCoat.jpg"
 keywords: ""
 categories:
     - "CV"
@@ -12,6 +12,24 @@ draft: false
 ---
 
 ## Positions in Medical Education
+
+Misc. Older Curriculum Development
+2013-2015	Medical Education Track for Internal Medicine Residency Program at Icahn School of Medicine at Mount Sinai, Co-founder
+	Co-developed curriculum outline and assessment methods
+	Facilitated implementation of pilot track year
+
+2010		MSTP Back-to-M3 Student Transition Course
+		Co-created a transition course
+		Developed and organized lectures
+		Designed and implemented evaluations
+
+Misc. Older Direct Teaching: Lectures and Small Groups
+Pointer.jpg
+2011-2012	Small group leader in Essentials of Clinical Medicine MSTP group, UIC College of Medicine
+2008-2012	Instructor for Providing Healthcare to your LGBT Patients, UIC College of Medicine
+2008	Teaching Assistant for Graduate Immunology, UIC College of Medicine
+2006-2012	Quarterly reviews for M1 Histology course, UIC College of Medicine
+
 
 <dl>
 <dt>2017</dt><dd>Assistant Professor of Medicine</dd>
