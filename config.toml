@@ -104,7 +104,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "Basic Immunology for A/I Fellows"
-      subtitle = "Course Director"
+      subtitle = "Course Creator & Director"
       image = "Lyvie.jpg"
       url = "pages/fellowsimmunology"
 
