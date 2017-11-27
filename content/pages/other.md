@@ -11,9 +11,8 @@ date: 2017-11-25T19:23:11-05:00
 draft: false
 ---
 
-## Positions in Medical Education
+## Misc. Older Curriculum Development
 
-Misc. Older Curriculum Development
 2013-2015	Medical Education Track for Internal Medicine Residency Program at Icahn School of Medicine at Mount Sinai, Co-founder
 	Co-developed curriculum outline and assessment methods
 	Facilitated implementation of pilot track year
@@ -23,7 +22,7 @@ Misc. Older Curriculum Development
 		Developed and organized lectures
 		Designed and implemented evaluations
 
-Misc. Older Direct Teaching: Lectures and Small Groups
+#### Misc. Older Direct Teaching: Lectures and Small Groups
 Pointer.jpg
 2011-2012	Small group leader in Essentials of Clinical Medicine MSTP group, UIC College of Medicine
 2008-2012	Instructor for Providing Healthcare to your LGBT Patients, UIC College of Medicine
