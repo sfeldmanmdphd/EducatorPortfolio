@@ -2,7 +2,7 @@
 title: "Molecular Mimicry? Connecting The Basic & Clinical Science of Allergy & Immunology"
 description: "Keynote Speaker at UIC MSTP Dinner Seminar"
 slug: "uic"
-image: "Pointer.jpg"
+image: "pointer.jpg"
 keywords: ""
 categories: 
     - "Medical Student Invited Lecture"
