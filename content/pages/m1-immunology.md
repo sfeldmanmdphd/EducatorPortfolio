@@ -3,6 +3,7 @@ title: "M1 Immunology"
 description: "TBD"
 image: "scott-1.jpg"
 keywords: ""
+slug: "m1immunology"
 categories:
     - ""
     - ""
