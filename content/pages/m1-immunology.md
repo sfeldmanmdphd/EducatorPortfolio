@@ -26,8 +26,9 @@ Feedback pending
 
 ## Learner Evaluations
 
+-{{% contentdiv class="row" %}}
 -{{% /contentdiv %}}		
- -		
+		
  -{{% contentdiv class="row" %}}		
  -{{% contentdiv class="6u 12u$(small)" %}}
 
