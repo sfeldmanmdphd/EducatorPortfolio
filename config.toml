@@ -120,6 +120,12 @@ googleAnalytics = ""
       image = "scott-1.jpg"
       url = "pages/m1immunology"
 
+ [[params.tiles.showcase]]
+      title = "Medical Decision Making First-Year Medical Students"
+      subtitle = "Small Group Leader"
+      image = "Poster.jpg"
+      url = "pages/mdm"
+
     #
     # [[params.tiles.showcase]]
     #   title = "Magna"
