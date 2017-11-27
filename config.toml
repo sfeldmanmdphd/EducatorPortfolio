@@ -129,7 +129,7 @@ googleAnalytics = ""
        [[params.tiles.showcase]]
       title = "Molecular Mimicry? Connecting The Basic & Clinical Science of Allergy & Immunology"
       subtitle = "Keynote Speaker at UIC MSTP Dinner Seminar"
-      image = "Pointer.jpg"
+      image = "pointer.jpg"
       url = "pages/uic"
 
     #
