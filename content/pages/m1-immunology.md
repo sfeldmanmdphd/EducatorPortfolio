@@ -27,9 +27,7 @@ Feedback pending
 ## Learner Evaluations
 
 -{{% contentdiv class="row" %}}
--{{% /contentdiv %}}		
-		
- -{{% contentdiv class="row" %}}		
+					
  -{{% contentdiv class="6u 12u$(small)" %}}
 
 2016 Northwestern University
@@ -42,6 +40,7 @@ Feedback pending
   “You had excellent lectures - the slides were all well organized, and I really appreciated that you said ahead of time what to really focus on. You were also a great presenter, and learning guides were good. “
 
 {{% /contentdiv %}}
+
 {{% contentdiv class="6u 12u$(small)" %}}
 
   “These lectures were great! Dr. Feldman was one of the best lecturers of the immunology section. The goals at the beginning of each lecture were incredibly helpful, as were the clinical cases. The key concepts were easy to follow and heavily emphasized, which made the information easy to remember. More lectures by Dr. Feldman would be great. “
