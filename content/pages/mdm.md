@@ -1,7 +1,7 @@
 ---
-title: "Medical Student Small Groups"
-description: ""
-slug: ""
+title: "Medical Decision Making"
+description: "Clinical Reasoning and Basic Biostatistics for First-Year Medical Students"
+slug: "mdm"
 image: ""
 keywords: ""
 categories:
