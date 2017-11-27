@@ -121,7 +121,7 @@ googleAnalytics = ""
       url = "pages/m1immunology"
 
  [[params.tiles.showcase]]
-      title = "Medical Decision Making First-Year Medical Students"
+      title = "Medical Decision Making for First-Year Medical Students"
       subtitle = "Small Group Leader"
       image = "Poster.jpg"
       url = "pages/mdm"
