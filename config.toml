@@ -109,10 +109,16 @@ googleAnalytics = ""
       url = "pages/fellowsimmunology"
 
     [[params.tiles.showcase]]
-      title = "M3 Immunology"
-      subtitle = "Online lectures"
+      title = "Basic Immunology for Senior Medical Students"
+      subtitle = "Creator of Online Module"
       image = "lightboard.png"
       url = "pages/m3immunology"
+
+ [[params.tiles.showcase]]
+      title = "Basic Immunology for First-Year Medical Students"
+      subtitle = "Lecturer and Small Group Leader"
+      image = "scott-1.jpg"
+      url = "pages/m1immunology"
 
     #
     # [[params.tiles.showcase]]
