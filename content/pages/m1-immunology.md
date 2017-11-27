@@ -45,9 +45,8 @@ does it?
 
 ## Learner Evaluations
 
--{{% contentdiv class="row" %}}
-					
- -{{% contentdiv class="6u 12u$(small)" %}}
+{{% contentdiv class="row" %}}
+{{% contentdiv class="6u 12u$(small)" %}}
 
 2016 Northwestern University  
 “Dr. Feldman’s lectures were very organized and effective. I really enjoyed his lecturing style. “  
