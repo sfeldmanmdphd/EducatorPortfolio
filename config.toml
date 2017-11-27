@@ -131,7 +131,13 @@ googleAnalytics = ""
       subtitle = "Keynote Speaker at UIC MSTP Dinner Seminar"
       image = "pointer.jpg"
       url = "pages/uic"
-
+      
+       [[params.tiles.showcase]]
+      title = "Other Curriculum Development & Direct Teaching"
+      subtitle = "Miscellaneous other projects and lectures"
+      image = "WhiteCoat.jpg"
+      url = "pages/other"
+     
     #
     # [[params.tiles.showcase]]
     #   title = "Magna"
