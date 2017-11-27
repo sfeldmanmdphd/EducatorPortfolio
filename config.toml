@@ -93,7 +93,7 @@ googleAnalytics = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Scott Feldman, MD, PhD"
-    subtitle = "Academic Clinician in Allergy & Immunology at the University of Pennsylvania."
+    subtitle = "Assistant Professor of Medicine at the University of Pennsylvania."
     buttonText = "Learn more"
 
 
@@ -103,10 +103,10 @@ googleAnalytics = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Educator CV"
-      subtitle = "Latin Words"
-      image = "scott-1.jpg"
-      url = "pages"
+      title = "Basic Immunology for A/I Fellows"
+      subtitle = "Course Director"
+      image = "Lyvie.jpg"
+      url = "pages/fellowsimmunology"
 
     [[params.tiles.showcase]]
       title = "M3 Immunology"
