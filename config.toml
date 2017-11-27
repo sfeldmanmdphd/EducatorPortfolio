@@ -125,6 +125,12 @@ googleAnalytics = ""
       subtitle = "Small Group Leader"
       image = "Poster.jpg"
       url = "pages/mdm"
+      
+       [[params.tiles.showcase]]
+      title = "Molecular Mimicry? Connecting The Basic & Clinical Science of Allergy & Immunology"
+      subtitle = "Keynote Speaker at UIC MSTP Dinner Seminar"
+      image = "Pointer.jpg"
+      url = "pages/uic"
 
     #
     # [[params.tiles.showcase]]
