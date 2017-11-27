@@ -1,9 +1,9 @@
 ---
 title: "M1 Immunology"
-description: "TBD"
+description: "Info on my teaching of M1 Immunology TBD"
+slug: "m1immunology"
 image: "scott-1.jpg"
 keywords: ""
-slug: "m1immunology"
 categories:
     - ""
     - ""
