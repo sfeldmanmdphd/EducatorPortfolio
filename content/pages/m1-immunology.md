@@ -25,6 +25,12 @@ Feedback pending
 *add MCQ example*
 
 ## Learner Evaluations
+
+-{{% /contentdiv %}}		
+ -		
+ -{{% contentdiv class="row" %}}		
+ -{{% contentdiv class="6u 12u$(small)" %}}
+
 2016 Northwestern University
   “Dr. Feldman’s lectures were very organized and effective. I really enjoyed his lecturing style. “
   “Dr. Feldman was a fantastic and engaging lecturer. His lectures were very well organized and were delivered in an appropriate pace. I really enjoyed his lectures and appreciate him highlighting the main take away points from his lectures so we were not buried under small details. I wish he will give more lectures in the future. “
