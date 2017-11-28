@@ -109,7 +109,7 @@ googleAnalytics = ""
       url = "pages/fellowsimmunology"
 
     [[params.tiles.showcase]]
-      title = "Basic Immunology for Senior Medical Students"
+      title = "Basic & Clinical Immunology for Senior Medical Students"
       subtitle = "Creator of Online Module & Instructional Videos"
       image = "lightboard.png"
       url = "pages/m3immunology"
