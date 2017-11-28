@@ -37,7 +37,7 @@ googleAnalytics = ""
   # Navigation Section
   [params.navigation]
     title = "Scott Feldman, MD, PhD"
-    subtitle = "Academic Clinician"
+    subtitle = "Academic Clinician in Allergy & Immunology"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
