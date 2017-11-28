@@ -19,11 +19,11 @@ draft: false
 * 2012-2013	Intern in Internal Medicine, Icahn School of Medicine at Mount Sinai, New York, NY
 * 2013-2015	Resident in Internal Medicine, Icahn School of Medicine at Mount Sinai, New York, NY
 * 2015-2017	Fellow in Allergy / Immunology, Northwestern University Feinberg School of Medicine, Chicago, IL
-* 2016-pres.	Medical Education Clinical Scholars Program, Northwestern University Feinberg School of Medicine, Chicago, IL
+* 2016-2018	Medical Education Clinical Scholars Program, Northwestern University Feinberg School of Medicine, Chicago, IL
 
 #### Licensure and Certification
 * 2014-2015	Medical License State of New York
-* 2015-pres.	Medical License State of Illinois
+* 2015-2017 Medical License State of Illinois
 * 2017-pres	Medical License State of Pennsylvania
 * 2013		National Board of Medical Examiners
 * 2015		American Board of Internal Medicine
