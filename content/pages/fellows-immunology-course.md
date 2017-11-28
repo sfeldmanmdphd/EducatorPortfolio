@@ -27,5 +27,5 @@ A Sample Quiz question (written by me)
 
 #### Learner Feedback
 
-* “In informal talks, we all feel this Immunology review course structure is excellent. Should work out well.”
-* “Today was great! I snapchatted 'immunology fun' over my thymus cartoon I drew on the board!"
+  “In informal talks, we all feel this Immunology review course structure is excellent. Should work out well.”  
+  “Today was great! I snapchatted 'immunology fun' over my thymus cartoon I drew on the board!"
