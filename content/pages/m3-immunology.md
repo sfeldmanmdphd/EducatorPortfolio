@@ -17,7 +17,7 @@ As a Fellow at Northwestern, I developed a five-part video series for a “flipp
 [Online Module](https://docs.google.com/presentation/d/1V17sEZmktz7APoxHrEFaCqb0MOlpVaMHcxzWGhZRTDs/present?slide=id.p4 "This is a direct link to the entire published online module")
 
 
-These are the videos I created with [Lightboard] (http://lightboard.info/) embedded within the above online module.
+These are the videos I created with [Lightboard](http://lightboard.info/) embedded within the above online module.
 
 ### Antibodies and Isotypes — What do antibodies do?
 
