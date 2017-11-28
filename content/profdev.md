@@ -11,5 +11,5 @@ draft: false
 ---
 
 * 2017 ACAAI Leadership Summit: Generation Next Participant
-* 2015-2017 Medical Education Clinical Scholars Program, Northwestern University Feinberg School of Medicine, Chicago, IL
+* 2016-2018 Medical Education Clinical Scholars Program, Northwestern University Feinberg School of Medicine, Chicago, IL
 * 2014 Harvard-Macy Institute Program for Post-Graduate Trainees: Future Academic Clinician-Educators
