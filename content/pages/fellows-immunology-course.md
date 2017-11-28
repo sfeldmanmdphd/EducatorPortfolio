@@ -17,7 +17,7 @@ I developed this course modeled after my immunology training in fellowship. Inst
 
 [Example Worksheet - Session 2] (https://docs.google.com/document/d/e/2PACX-1vSU0ascI-eNEkd6X2n_HuDoXEunbFp22mYprL0wHHzaDX4Mw66nPoQbOtSQ559Bnqzq-SQZzVd0LPoQ/pub "Worksheet for Session 2 as published Googledoc")
 
-A Sample Quiz question (written by me)
+A Sample Quiz question (written by me)  
   A 25 yo F comes to clinic after having her DNA sequenced on 23andme.com. She has been very stressed as, among many things, it showed she has a “mutation in the J chain.” She wants to know how this will affect her health.  
   Which disease would be LEAST likely to develop in this patient?  
   *a) Celiac disease  
