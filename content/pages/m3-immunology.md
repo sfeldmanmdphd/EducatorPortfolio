@@ -14,7 +14,7 @@ draft: false
 
 As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material.
 
-[Online Module] (https://docs.google.com/presentation/d/1V17sEZmktz7APoxHrEFaCqb0MOlpVaMHcxzWGhZRTDs/present?slide=id.p4 "This is a direct link to the entire published online module")
+[Online Module](https://docs.google.com/presentation/d/1V17sEZmktz7APoxHrEFaCqb0MOlpVaMHcxzWGhZRTDs/present?slide=id.p4 "This is a direct link to the entire published online module")
 
 
 These are the videos I created with [Lightboard] (http://lightboard.info/) embedded within the above online module.
