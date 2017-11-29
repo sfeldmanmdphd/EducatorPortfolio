@@ -33,11 +33,11 @@ These are the videos I created with [Lightboard](http://lightboard.info/) embedd
 
 ### Immunodeficiencies — (Part 1 of 2) (05:54)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HPlOgSZAIY0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HPlOgSZAIY0" frameborder="0" allowfullscreen></iframe>
 
 ### Immunodeficiencies — (Part 2 of 2) (04:04)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=H0YfGxEPL4o?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=H0YfGxEPL4o" frameborder="0" allowfullscreen></iframe>
 
 
 {{% contentdiv class="row" %}}
