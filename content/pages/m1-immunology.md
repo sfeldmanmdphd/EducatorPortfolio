@@ -24,25 +24,6 @@ Feedback pending
 *add slides*
 *add MCQ example*
 
-more text
-even more text
-
-i am adding more text to get it below the picture
-
-am i below picture now?
-
-let's hope!
-
-nope!
-
-not yet
-
-still going
-
-waiting ot see if this does or does not fix?
-
-does it?
-
 ## Learner Evaluations
 
 {{% contentdiv class="row" %}}
