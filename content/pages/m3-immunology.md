@@ -14,7 +14,7 @@ draft: false
 
 As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material.
 
-[Online Module](https://docs.google.com/presentation/d/1V17sEZmktz7APoxHrEFaCqb0MOlpVaMHcxzWGhZRTDs/present?slide=id.p4 "This is a direct link to the entire published online module") Test
+[This is the Online Module](https://docs.google.com/presentation/d/1V17sEZmktz7APoxHrEFaCqb0MOlpVaMHcxzWGhZRTDs/present?slide=id.p4 "This is a direct link to the entire published online module")
 
 
 These are the videos I created with [Lightboard](http://lightboard.info/) embedded within the above online module.
@@ -29,7 +29,7 @@ These are the videos I created with [Lightboard](http://lightboard.info/) embedd
 
 ### B Cell Activation — How are B cells activated? (05:50)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Kdq3nh9p2i8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kdq3nh9p2i8" frameborder="0" allowfullscreen></iframe>
 
 ### Immunodeficiencies — (Part 1 of 2) (05:54)
 
