@@ -13,7 +13,7 @@ draft: false
 
 Since joining the faculty at Unversity of Pennsylvania, I co-led an M1 Immunology small group for 6 session in the fall of 2017. 18 students led themselves through immunology cases prepared by the course directors, and I facilitated discussion of the material.
 
-In the fall of 2016, I was an instructor in the Basic Immunology course for M1 students at Northwestern University Medical School. I gave the large group lectures on Effector Functions of Humoral Immunity, Mucosal Immunology, and Immunity to Microbes to the class of ~150 students, who either showed up and/or watched online.
+In the fall of 2016, I was an instructor in the Basic Immunology course for M1 students at Northwestern University Medical School. I gave the large group lectures on Effector Functions of Humoral Immunity, Mucosal Immunology, and Immunity to Microbes to the class of ~150 students, who either attended in person and/or watched online.
 
 I prepared learning guides for students to review in advance of the lecture.
 [This is an example of the learning guide for Mucosal Immunology](https://docs.google.com/document/d/e/2PACX-1vSIqIn0O9KvE-jSfk01N2yCDHIJySCl48Y1N-tFYuZ9VYqunoxofoDQe8YYoSPvJkVSmdCyxAYKq8MP/pub "Mucosal Immunology Learning Guide")
