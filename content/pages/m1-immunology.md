@@ -45,12 +45,9 @@ e) Recognition via Toll-like receptor
 “Dr. Feldman did a really good job with his immunology lectures. He was engaging and reassured us that we would not have to know all the little details yet. He made it clear what was important for us to know at this point. His powerpoint was very well put together and easy to follow along with in class. “  
 “I feel that you did a very good job of incorporating the scope of the topics that you wanted to discuss with the clinical cases you used as examples. You had a very nice framework for each lecture that allowed you to still mention more detailed topics without having to justify their presence as an example or for the sake of being thorough. “  
 “Dr. Feldman was of the most articulate lecturers in the immunology series. His presentation was clear, clinically relevant, and memorable. “  
-“You had excellent lectures - the slides were all well organized, and I really appreciated that you said ahead of time what to really focus on. You were also a great presenter, and learning guides were good. “
-
 {{% /contentdiv %}}
-
 {{% contentdiv class="6u 12u$(small)" %}}
-
+“You had excellent lectures - the slides were all well organized, and I really appreciated that you said ahead of time what to really focus on. You were also a great presenter, and learning guides were good. “  
 “These lectures were great! Dr. Feldman was one of the best lecturers of the immunology section. The goals at the beginning of each lecture were incredibly helpful, as were the clinical cases. The key concepts were easy to follow and heavily emphasized, which made the information easy to remember. More lectures by Dr. Feldman would be great. “  
 “The best lecturer we had this module. He taught from the stand point of a student - he clearly listed the important topics that we had to know for the exam, and provided questions to test our understanding. I wish all faculty did both of these things so clearly! “  
 “I don’t remember what Dr. Feldman talked to us about. “  
