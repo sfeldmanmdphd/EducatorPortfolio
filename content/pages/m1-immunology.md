@@ -26,12 +26,12 @@ Finally, I wrote and submitted MCQs for the three topics I covered.
 Here is an example question that I wrote for the Immunity to Microbes session:
 
 #. You read a journal article describing potential viral pandemics in the next ten years. One potential scenario involves a pathogenic virus that has mutated ONLY its surface capsid without any additional protein mutations.  
-*Which of the following mechanisms of the immune response to this virus is MOST LIKELY to be affected by this viral mutation?*  
-a) Killing of infected cell via CD8+ T lymphocyte  
+Which of the following mechanisms of the immune response to this virus is MOST LIKELY to be affected by this viral mutation?  
+*a) Killing of infected cell via CD8+ T lymphocyte  
 b) Killing of infected cell via NK cell  
 c) Neutralization by antibody  
 d) Production of interferon  
-e) Recognition via Toll-like receptor
+e) Recognition via Toll-like receptor*
 
 ## Learner Evaluations
 2017 University of Pennsylvania - Pending
