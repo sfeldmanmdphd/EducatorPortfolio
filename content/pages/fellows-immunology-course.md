@@ -26,6 +26,6 @@ A Sample Quiz question (written by me)
   d) Food allergy*
 
 #### Learner Feedback
-
+(Formal Evaluation Pending)  
   “In informal talks, we all feel this Immunology review course structure is excellent. Should work out well.”  
   “Today was great! I snapchatted 'immunology fun' over my thymus cartoon I drew on the board!"
