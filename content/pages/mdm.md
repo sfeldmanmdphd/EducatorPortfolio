@@ -11,8 +11,9 @@ date: 2017-11-25T19:30:00-05:00
 draft: false
 ---
 
-Sample lectures (?) - see Jessica Voth emails
-2016-2017	Small group leader in Medical-Decision Making for M1 students, Northwestern University Medical School
+At Northwestern University in the fall of 2016 and the spring of 2017, I led a small group for first-year medical students as part of the Medical Decision Making course. I had 3 different groups of 10-12 students, each for 5 sessions on average every other week (then instructors would rotate groups). Topics included Diagnostics, Advanced Decision Making, Case Control and Cohorts, Risk Harm and Association, Prognosis, Screening, Threshold Actions, Clinical Prediction Rules, Decision Analysis, Cost Effective Analysis, Guidelines & Policy. I tried to include current clinical examples from my experiences with patients on diagnosis of food allergies (sensitivity and specificty of testing), management of asthma, cost effective workup of chronic urticaria, etc.
+
+[Here is an example small group discussion guide] (https://drive.google.com/open?id=1wpPcIfiaiclo6H1WEBMgJLCY5gME5uxR "Student Guide on Diagnostics")
 
 ## Learner Evaluations
 
