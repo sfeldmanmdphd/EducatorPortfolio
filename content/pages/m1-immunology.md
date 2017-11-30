@@ -2,7 +2,7 @@
 title: "M1 Immunology"
 description: "Info on my teaching of M1 Immunology TBD"
 slug: "m1immunology"
-image: "scott-1.jpg"
+image: "GIAdaptive.jpg"
 keywords: ""
 categories:
     - ""
