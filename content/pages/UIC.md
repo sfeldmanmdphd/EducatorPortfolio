@@ -22,6 +22,7 @@ The presentation was an interactive Lecture with audience response questions for
 #### Learner Feedback
 
 “This was awesome, I want to look into allergy and immunology now “  
+“Really enjoyable! No negative feedback - super interesting, well organized, and presented clearly”  
 “Love humor, interaction. Love how you spoke about the specialty and broke that up throughout talk into small segments to keep us engaged.”  
-“Great Seminar. I could tell you love what you are doing and cared about giving a good talk.”  
-“Really enjoyable! No negative feedback - super interesting, well organized, and presented clearly”
+“Great Seminar. I could tell you love what you are doing and cared about giving a good talk.”
+
