@@ -53,12 +53,12 @@ How are B cells activated? (05:50)
 {{% contentdiv class="row" %}}
 {{% contentdiv class="6u 12u$(small)" %}}
 
-TBD
+Pending
 
 {{% /contentdiv %}}
 {{% contentdiv class="6u 12u$(small)" %}}
 
-TBD
+
 
 {{% /contentdiv %}}
 {{% /contentdiv %}}
