@@ -13,10 +13,12 @@ draft: false
 
 ## Miscellaneous Older Curriculum Development
 <dl>
-<dt>2013-2015</dt><dd>Co-founder, Medical Education Track  
+<dt>2013-2015</dt><dd>
+### Co-founder, Medical Education Track  
 I worked with Vice Chair for Education Dr. David Thomas to develop a Medical Education Track for the Internal Medicine Residency Program at Icahn School of Medicine at Mount Sinai. I developed a curriculum outline and assessment methods, and facilitated implementation of a pilot track year beginning in July 2015 (after my completion of residency). The [track](http://icahn.mssm.edu/education/residencies-fellowships/list/msh-internal-medicine-residency/education/categorical) is still active under the leadership of Dr. Thomas and Dr. Andy Coyle.
 
-<dt>2010</dt><dd>Co-creator, Back-To-M3 Course  
+<dt>2010</dt><dd>
+### Co-creator, Back-To-M3 Course  
 In the final graduate school year of my MD/PhD program, I co-created a transition course for MSTP students who were transitioning back to the medical school years (year 3). I worked with 2 other MSTP students to organize a curriculum, develop and organize lectures, and designed an implemented evaluations. The course has repeated annually since 2010, undergoing revisions as it proceeded.
 </dl>
 
