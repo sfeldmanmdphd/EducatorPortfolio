@@ -11,21 +11,30 @@ date: 2017-11-24T22:42:51-05:00
 draft: false
 ---
 
+Since joining the faculty at Unversity of Pennsylvania, I co-led an M1 Immunology small group for 6 session in the fall of 2017. 18 students led themselves through immunology cases prepared by the course directors, and I facilitated discussion of the material.
 
-2017 M1 Immunology Small groups
-2016	Instructor in Basic Immunology course for M1 students, Northwestern University Medical School
+In the fall of 2016, I was an instructor in the Basic Immunology course for M1 students at Northwestern University Medical School. I gave the large group lectures on Effector Functions of Humoral Immunity, Mucosal Immunology, and Immunity to Microbes to the class of ~150 students, who either showed up and/or watched online.
 
-2017 University of Pennsylvania small group
-Feedback pending
+I prepared learning guides for students to review in advance of the lecture.
+[This is an example of the learning guide for Mucosal Immunology](https://docs.google.com/document/d/e/2PACX-1vSIqIn0O9KvE-jSfk01N2yCDHIJySCl48Y1N-tFYuZ9VYqunoxofoDQe8YYoSPvJkVSmdCyxAYKq8MP/pub "Mucosal Immunology Learning Guide")
 
-2016 Northwestern University 
-3 lectures
-*add learner guide*
-*add slides*
-*add MCQ example*
+I also prepared and gave 3 large group presentations.
+This is an example of the presentation on Effector Functions of Humoral Immunity
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwFb7rbMBsK98V7VFn13iLgr8Cp2ltsmx4wLciuqeX4Iv6OTAd5aB8rTrOiRS5RacWwDCoidiMJJMT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Finally, I wrote and submitted MCQs for the three topics I covered.
+Here is an example question that I wrote for the Immunity to Microbes session:
+
+You read a journal article describing potential viral pandemics in the next ten years. One potential scenario involves a pathogenic virus has mutated ONLY its surface capsid without any additional protein mutations.  
+*Which of the following mechanisms of the immune response to this virus is MOST LIKELY to be affected by this viral mutation?*  
+a) Killing of infected cell via CD8+ T lymphocyte  
+b) Killing of infected cell via NK cell  
+c) Neutralization by antibody  
+d) Production of interferon  
+e) Recognition via Toll-like receptor
 
 ## Learner Evaluations
-
+2017 University of Pennsylvania - Pending
 {{% contentdiv class="row" %}}
 {{% contentdiv class="6u 12u$(small)" %}}
 
