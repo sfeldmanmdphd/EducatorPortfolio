@@ -78,9 +78,9 @@ googleAnalytics = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Learn more"
-      url = "pages"
+    # [[params.navigation.button1]]
+    #  name = "Learn more"
+    #  url = "pages"
 
     # Button Style 2
     # [[params.navigation.button2]]
