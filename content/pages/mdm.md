@@ -1,6 +1,6 @@
 ---
-title: "Medical Decision Making"
-description: "Clinical Reasoning and Basic Biostatistics for First-Year Medical Students"
+title: "Medical Decision Making for First-Year Medical Students"
+description: "Small Group Leader"
 slug: "mdm"
 image: ""
 keywords: ""
