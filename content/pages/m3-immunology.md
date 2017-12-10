@@ -1,6 +1,6 @@
 ---
 title: "Basic & Clinical Immunology for Senior Medical Students"
-description: "As a Fellow at Northwestern, I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sessions led by a senior A/I Fellow designed to reinforce what they had learned and give immediate feedback on their understanding of the material."
+description: "Creator of Online Module & Instructional Videos"
 slug: "m3immunology"
 image: ""
 keywords: ""
