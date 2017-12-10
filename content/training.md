@@ -27,4 +27,4 @@ draft: false
 * 2017-pres	Medical License State of Pennsylvania
 * 2013		National Board of Medical Examiners
 * 2015		American Board of Internal Medicine
-* 2017 (pending)	American Board of Allergy & Immunology
+* 2017  	American Board of Allergy & Immunology
