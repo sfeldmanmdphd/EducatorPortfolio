@@ -1,6 +1,6 @@
 ---
-title: "M1 Immunology"
-description: "Info on my teaching of M1 Immunology TBD"
+title: "Basic Immunology for First-Year Medical Students"
+description: "Lecturer and Small Group Leader"
 slug: "m1immunology"
 image: "GIAdaptive.jpg"
 keywords: ""
