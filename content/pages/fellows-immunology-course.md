@@ -1,6 +1,6 @@
 ---
-title: "Fellows Immunology Course"
-description: "Course for Allergy/Immunology fellows at Penn"
+title: "Basic Immunology for Allergy/Immunology Fellows"
+description: "Course Creator & Director"
 slug: "fellowsimmunology"
 image: "spleen-1.jpg"
 keywords: "spleen"
