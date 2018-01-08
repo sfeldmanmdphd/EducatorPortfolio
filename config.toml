@@ -133,6 +133,12 @@ googleAnalytics = ""
       url = "pages/uic"
       
        [[params.tiles.showcase]]
+      title = "Patient Educational Videos"
+      subtitle = "Creator of Educational Videos for Patients"
+      image = "OAS.jpg"
+      url = "pages/videos"
+      
+       [[params.tiles.showcase]]
       title = "Other Curriculum Development & Direct Teaching"
       subtitle = "Miscellaneous other projects and lectures"
       image = "WhiteCoat.jpg"
