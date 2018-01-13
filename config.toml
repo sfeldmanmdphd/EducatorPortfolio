@@ -128,15 +128,15 @@ googleAnalytics = ""
       
        [[params.tiles.showcase]]
       title = "Molecular Mimicry? Connecting The Basic & Clinical Science of Allergy & Immunology"
-      subtitle = "Developed and facilitated a session on inpatient and outpatient drug allergy"
-      image = "sulfa.jpg"
-      url = "pages/drugallergy"
-      
-      [[params.tiles.showcase]]
-      title = "Drug Allergy for Internal Medicine Residents"
       subtitle = "Keynote Speaker at UIC MSTP Dinner Seminar"
       image = "pointer.jpg"
       url = "pages/uic"
+      
+      [[params.tiles.showcase]]
+      title = "Drug Allergy for Internal Medicine Residents"
+      subtitle = "Developed and facilitated a session on inpatient and outpatient drug allergy"
+      image = "sulfa.jpg"
+      url = "pages/drugallergy"
       
        [[params.tiles.showcase]]
       title = "Patient Educational Videos"
