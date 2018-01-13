@@ -18,18 +18,4 @@ As an attending at Penn, I was invited to give a noon conference for the interns
 
 
 #### Learner Evaluations
-
-{{% /contentdiv %}}
-
-{{% contentdiv class="row" %}}
-{{% contentdiv class="6u 12u$(small)" %}}
-
 Pending
-
-{{% /contentdiv %}}
-{{% contentdiv class="6u 12u$(small)" %}}
-
-
-
-{{% /contentdiv %}}
-{{% /contentdiv %}}
