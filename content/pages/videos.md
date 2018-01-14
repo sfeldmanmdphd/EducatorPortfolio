@@ -17,4 +17,7 @@ As an academic clinician at Penn, I found myself repeating certain illness scrip
 ### Oral Allergy Syndrome
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b3nLs10_5zA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+### Nose Sprays
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVy0ZZs0PSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 More to come...
