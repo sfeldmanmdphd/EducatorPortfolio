@@ -18,8 +18,8 @@ As faculty at Penn, I was invited to give a noon conference for the interns and 
 
 
 #### Learner Evaluations
-Great, learned a lot!
+Great, learned a lot!  
 Enjoyed the QA format
 
-Overal evaluation (N=12 of ~30)
- <img src="FeedbackDrugAllergy.jpg" alt="Overal Evaluation” />
+Overall evaluation (N=12 of ~30)
+<img src="FeedbackDrugAllergy.jpg" alt="Overall Evaluation” />
