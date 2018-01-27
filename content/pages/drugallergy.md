@@ -22,4 +22,4 @@ Great, learned a lot!
 Enjoyed the QA format  
 
 Overall evaluation (N=12 of ~30)  
-<img src="../../img/FeedbackDrugAllergy.jpg" alt="Overall Evaluation" />
+<img src="../../img/FeedbackDrugAllergy.png" alt="Overall Evaluation" />
