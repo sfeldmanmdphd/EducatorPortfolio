@@ -18,4 +18,5 @@ As faculty at Penn, I was invited to give a noon conference for the interns and 
 
 
 #### Learner Evaluations
-Pending
+Great, learned a lot!
+Enjoyed the QA format
