@@ -11,7 +11,7 @@ draft: false
 ---
 #### Positions
 * 2017 Assistant Professor of Medicine
-* 2017 Associate Fellowship Program Director
+* 2018 Assistant Fellowship Program Director
 * 2017 Course Director, Fellows Immunology Course
 * 2016-2017 Chief Fellow
 
