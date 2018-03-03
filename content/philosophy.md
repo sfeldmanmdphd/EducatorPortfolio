@@ -2,7 +2,7 @@
 title: "Teaching Philosophy"
 description: "Teaching Philosophy"
 slug: "philosophy"
-image: "Emojislide.jpg"
+image: "M1Lecture.png"
 keywords: ""
 categories:
     - ""
