@@ -17,6 +17,16 @@ At Northwestern University in the fall of 2016 and the spring of 2017, I led a s
 
 ## Learner Evaluations
 
+### 2016-2017 Northwestern University
+
+My MDM small group leader was effective (3 trimesters combined)
+| Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |  N | Mean |
+|:-----------------:|:--------:|:-------:|:-----:|:--------------:|:--:|:----:|
+|         0         |     0    |    2    |   16  |        9       | 27 |  4.3 |
+|         0%        |    0%    |    7%   |  59%  |       33%      |    |      |
+
+Class Average
+
   “Dr. Feldman has made MDM small groups extremely interactive, and I feel as though I really learn the material both by preparing for these sessions and due to his teaching/review of concepts.”  
   “Dr. Feldman was an excellent MDM leader; he provided examples of times he used MDM principles in treating actual patients, and did a great job of explaining principles which the group didn't understand.”  
   “Dr. Feldman does a great job in guiding our group through the assignment, emphasizing the important aspects and relating it to what is clinically relevant in reality.”  
