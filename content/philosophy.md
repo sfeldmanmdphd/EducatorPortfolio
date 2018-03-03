@@ -1,6 +1,6 @@
 ---
-title: "Teaching Philosophy"
-description: "Teaching Philosophy"
+title: "Teaching & Education Philosophy"
+description: "Teaching & Education Philosophy"
 slug: "philosophy"
 image: "M1Lecture.png"
 keywords: ""
