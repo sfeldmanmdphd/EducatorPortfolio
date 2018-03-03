@@ -21,10 +21,10 @@ At Northwestern University in the fall of 2016 and the spring of 2017, I led a s
 
 My MDM small group leader was effective (3 trimesters combined)  
 
-| Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |  N | Mean |
+| Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree | N | Mean |
 |:-----------------:|:--------:|:-------:|:-----:|:--------------:|:--:|:----:|
-|         0         |     0    |    2    |   16  |        9       | 27 |  4.3 |
-|         0%        |    0%    |    7%   |  59%  |       33%      |    |      |
+| 0 | 0 | 2 | 16 | 9 | 27 | 4.3 |
+| 0% | 0% | 7% | 59% | 33% |  |  |
 
 Class Average
 
