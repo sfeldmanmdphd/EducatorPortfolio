@@ -54,15 +54,13 @@ How are B cells activated? (05:50)
 Overall evaluation 2017-2018 (N=30)  
 <img src="../../img/M3 Evaluation.png" alt="Overall Evaluation" />
 
-{{% /contentdiv %}}
+## Qualitative Feedback
+“I thought this was a very solid way to present this information. The topic is very broad, though, so I was sometimes lost by the details. It seems quite difficult to get all of this material into a short primer like this, but it was done effectively enough for me to learn some of the key points” 
 
-{{% contentdiv class="row" %}}
-{{% contentdiv class="6u 12u$(small)" %}}
+"I think this would be an interesting session for individuals interested in immunology."
 
-Pending
+“I prefer to do this in class; not a good individual study format.”
 
-{{% /contentdiv %}}
-{{% contentdiv class="6u 12u$(small)" %}}
 
 
 
