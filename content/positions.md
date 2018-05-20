@@ -16,6 +16,8 @@ draft: false
 * 2016-2017 Chief Fellow 
 
 #### Administrative Service
+* 2018 Penn Allergy / Immunology Wait List Task Force
+* 2018 Penn Allergy / Immunology Penicillin Allergy Committee
 * 2017 Penn Allergy / Immunology Fellowship Self-Study Committee
 * 2013-2015	Curriculum Committee, Internal Medicine Residency
 * 2010-2012	Ad Hoc Committee on Curriculum Transformation, Member
