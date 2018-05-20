@@ -64,7 +64,7 @@ googleAnalytics = ""
 
 [[params.navigation.links]]
       name = "Academic Productivity"
-      url = "Produc"
+      url = "produc"
 
         [[params.navigation.links]]
       name = "Honors & Awards"
@@ -107,78 +107,41 @@ googleAnalytics = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Basic Immunology for Allergy/Immunology Fellows"
-      subtitle = "Course Creator & Director"
-      image = "Lyvie.jpg"
-      url = "pages/fellowsimmunology"
+        title = "Basic Immunology for Allergy/Immunology Fellows"
+        subtitle = "Course Creator & Director"
+        image = "Lyvie.jpg"
+        url = "pages/fellowsimmunology"
 
     [[params.tiles.showcase]]
-      title = "Basic & Clinical Immunology for Senior Medical Students"
-      subtitle = "Creator of Online Module & Instructional Videos"
-      image = "lightboard.png"
-      url = "pages/m3immunology"
+        title = "Basic & Clinical Immunology for Senior Medical Students"
+        subtitle = "Creator of Online Module & Instructional Videos"
+        image = "lightboard.png"
+        url = "pages/m3immunology"
 
- [[params.tiles.showcase]]
-      title = "Basic Immunology for First-Year Medical Students"
-      subtitle = "Lecturer and Small Group Leader"
-      image = "scott-1.jpg"
-      url = "pages/m1immunology"
+    [[params.tiles.showcase]]
+        title = "Basic Immunology for First-Year Medical Students"
+        subtitle = "Lecturer and Small Group Leader"
+        image = "scott-1.jpg"
+        url = "pages/m1immunology"
 
- [[params.tiles.showcase]]
-      title = "Medical Decision Making for First-Year Medical Students"
-      subtitle = "Small Group Leader"
-      image = "Poster.jpg"
-      url = "pages/mdm"
-      
-       [[params.tiles.showcase]]
-      title = "Molecular Mimicry? Connecting The Basic & Clinical Science of Allergy & Immunology"
-      subtitle = "Keynote Speaker at UIC MSTP Dinner Seminar"
-      image = "pointer.jpg"
-      url = "pages/uic"
-      
-      [[params.tiles.showcase]]
-      title = "Drug Allergy for Internal Medicine Residents"
-      subtitle = "Developed and facilitated a session on inpatient and outpatient drug allergy"
-      image = "Sulfa.jpg"
-      url = "pages/drugallergy"
-      
-       [[params.tiles.showcase]]
-      title = "Patient Educational Videos"
-      subtitle = "Creator of Educational Videos for Patients"
-      image = "OAS.jpg"
-      url = "pages/videos"
-      
-       [[params.tiles.showcase]]
-      title = "Other Curriculum Development & Direct Teaching"
-      subtitle = "Miscellaneous other projects and lectures"
-      image = "WhiteCoat.jpg"
-      url = "pages/other"
-     
-    #
-    # [[params.tiles.showcase]]
-    #   title = "Magna"
-    #   subtitle = "Lorem Etiam Nullam"
-    #   image = "pic03.jpg"
-    #   url = "blogs/magna"
-    #
-    # [[params.tiles.showcase]]
-    #   title = "Ipsum"
-    #   subtitle = "Nisl Sed Aliquam"
-    #   image = "pic04.jpg"
-    #   url = "blogs/ipsum"
-    #
-    # [[params.tiles.showcase]]
-    #   title = "Consequat"
-    #   subtitle = "Ipsum Dolor Sit Amet"
-    #   image = "pic05.jpg"
-    #   url = "blogs/ipsum"
-    #
-    # [[params.tiles.showcase]]
-    #   title = "Etiam"
-    #   subtitle = "Feugiat Amet Tempus"
-    #   image = "pic06.jpg"
-    #   url = "blogs/ipsum"
-    # You can make more showcases by copy and pasting the code above
+    [[params.tiles.showcase]]
+        title = "Medical Decision Making for First-Year Medical Students"
+        subtitle = "Small Group Leader"
+        image = "Poster.jpg"
+        url = "pages/mdm"
+
+    [[params.tiles.showcase]]
+        title = "Drug Allergy for Internal Medicine Residents"
+        subtitle = "Developed and facilitated a session on inpatient and outpatient drug allergy"
+        image = "Sulfa.jpg"
+        url = "pages/drugallergy"
+
+    [[params.tiles.showcase]]
+        title = "Other Curriculum Development & Direct Teaching"
+        subtitle = "Miscellaneous other projects and lectures"
+        image = "WhiteCoat.jpg"
+        url = "pages/other"
+
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
