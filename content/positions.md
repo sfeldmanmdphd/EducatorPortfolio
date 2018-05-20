@@ -11,12 +11,9 @@ draft: false
 ---
 #### Positions
 * 2017 Assistant Professor of Medicine
-* 2018 Assistant Fellowship Program Director
+* 2018 Assistant Fellowship Program Director, Penn Allergy & Immunology
 * 2017 Course Director, Fellows Immunology Course
-* 2016-2017 Chief Fellow
-
-#### Scholarship
-* Feldman, S (Chapter Co-author, Chapter 7: Pharmacology and Therapeutics.) 2016 ACAAI Review for the Allergy & Immunology Boards: Third Edition. Dr. David Stukus, Editor. 
+* 2016-2017 Chief Fellow 
 
 #### Administrative Service
 * 2017 Penn Allergy / Immunology Fellowship Self-Study Committee
