@@ -52,7 +52,7 @@ How are B cells activated? (05:50)
 #### Learner Evaluations
 
 Overall evaluation 2017-2018 (N=30)  
-<img src="../../img/M3 Evaluation.png" alt="Overall Evaluation" />
+<img src="../../img/M3Evaluation.png" alt="Overall Evaluation" />
 
 ## Qualitative Feedback
 “I thought this was a very solid way to present this information. The topic is very broad, though, so I was sometimes lost by the details. It seems quite difficult to get all of this material into a short primer like this, but it was done effectively enough for me to learn some of the key points” 
