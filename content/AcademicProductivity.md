@@ -11,5 +11,11 @@ draft: false
 ---
 
 ## Miscellaneous Academic Projects and Seminars
+2018
+* Creator of Educational Videos for Patients
+
+2017
+* Keynote Speaker at UIC MSTP Dinner Seminar: Molecular Mimicry? Connecting The Basic & Clinical Science of Allergy & Immunology
+
 2016
 * Feldman, S (Chapter Co-author, Chapter 7: Pharmacology and Therapeutics.) 2016 ACAAI Review for the Allergy & Immunology Boards: Third Edition. Dr. David Stukus, Editor.
