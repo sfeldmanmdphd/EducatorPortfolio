@@ -60,9 +60,3 @@ Overall evaluation 2017-2018 (N=30)
 "I think this would be an interesting session for individuals interested in immunology."
 
 “I prefer to do this in class; not a good individual study format.”
-
-
-
-
-{{% /contentdiv %}}
-{{% /contentdiv %}}
