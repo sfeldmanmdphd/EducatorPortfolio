@@ -202,7 +202,7 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "2017 Scott Feldman"
+    copyright = "2018 Scott Feldman"
 
     # [[params.footer.social]]
     #   icon = "fa-twitter"
