@@ -1,0 +1,32 @@
+<html>
+{{ "<!-- Header -->" | safeHTML }}
+    {{ partial "header.html" . }}
+
+    <body>
+
+    {{ "<!-- Wrapper -->" | safeHTML }}
+        <div id="wrapper">
+
+        {{ partial "nav.html" . }}
+
+        <div class="sitenav">
+            <ul class="links">
+                {{ range .Site.Params.Navigation.links }}
+                    <li><a href="{{ .url | absURL}}">{{ .name }}</a></li>
+                {{ end }}
+
+            </ul>
+        </div>
+
+        {{ "<!-- Footer -->" | safeHTML}}
+			{{ if .Site.Params.footer.enable }}
+				{{ partial "footer.html" . }}
+            {{ end }}
+
+        </div>
+
+    {{ "<!-- Scripts -->" | safeHTML}}
+        {{ partial "js.html" . }}
+
+    </body>
+</html>
