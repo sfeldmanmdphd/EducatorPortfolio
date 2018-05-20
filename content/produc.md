@@ -2,7 +2,7 @@
 title: "Academic Productivity"
 description: "Academic Productivity"
 slug: "produc"
-image: "Coat.jpg"
+image: "OAS.jpg"
 keywords: ""
 categories:
     - ""
