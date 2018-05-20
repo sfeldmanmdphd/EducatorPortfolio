@@ -27,11 +27,11 @@ My MDM small group leader was effective (3 trimesters combined)
 | 0% | 0% | 7% | 59% | 33% |  |  |
 
 Class Average  
+
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree | N | Mean |
 |:-----------------:|:--------:|:-------:|:-----:|:--------------:|:--:|:----:|
 | 4 | 12 | 47 | 182 | 228 | 473 | 4.3 |
 | 0.01% | 0.03% | 0.1% | 38.5% | 48.2% |  |  |
-
 
 
   “Dr. Feldman has made MDM small groups extremely interactive, and I feel as though I really learn the material both by preparing for these sessions and due to his teaching/review of concepts.”  
