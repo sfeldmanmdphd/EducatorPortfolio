@@ -51,6 +51,9 @@ How are B cells activated? (05:50)
 
 #### Learner Evaluations
 
+Overall evaluation 2017-2018 (N=30)  
+<img src="../../img/M3 Evaluation.png" alt="Overall Evaluation" />
+
 {{% /contentdiv %}}
 
 {{% contentdiv class="row" %}}
