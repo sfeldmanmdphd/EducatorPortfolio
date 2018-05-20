@@ -11,7 +11,5 @@ draft: false
 ---
 
 ## Miscellaneous Academic Projects and Seminars
-* Facilitating discussion for small group learning
-* Presenting content for large group / lectures
-* Creating asynchronous learning modules
-* Developing technology to assist in active learning
+2016
+* Feldman, S (Chapter Co-author, Chapter 7: Pharmacology and Therapeutics.) 2016 ACAAI Review for the Allergy & Immunology Boards: Third Edition. Dr. David Stukus, Editor.
