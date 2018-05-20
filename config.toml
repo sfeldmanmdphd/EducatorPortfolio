@@ -108,13 +108,13 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
         title = "Basic Immunology for Allergy/Immunology Fellows"
-        subtitle = "Course Creator & Director"
+        subtitle = "Course Creator & Director; Instructor"
         image = "Lyvie.jpg"
         url = "pages/fellowsimmunology"
 
     [[params.tiles.showcase]]
         title = "Basic & Clinical Immunology for Senior Medical Students"
-        subtitle = "Creator of Online Module & Instructional Videos"
+        subtitle = "Creator of Online Module & Instructional Videos; Instructor"
         image = "lightboard.png"
         url = "pages/m3immunology"
 
