@@ -26,6 +26,6 @@ Start of course (informal)
   "It is a great idea to present the topics as a work sheet to master."  
   "Quiz was very helpful to get a flavor of what ABAI immuno questions would be like and also see what concepts I didn't understand/remember. Liked the outlines. A much better alternative than reading the textbook line by line, which frankly, SUCKS."  
   "I think the course is incredible helpful"  
-  "Thank you for all your hard work in getting this course started! The textbook is very dense, so these sessions help break it apart in a more understandable manner."
+  "Thank you for all your hard work in getting this course started! The textbook is very dense, so these sessions help break it apart in a more understandable manner."  
   Further Evaluations  
   Pending
