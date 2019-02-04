@@ -20,10 +20,17 @@ The slides are below.
 ## Learner Evaluations
 2018-2019
 "This is the first we have had a lecture like this and it was spectacular. Incredibly relevant, in fact while listening to it I thought 'how is it possible that we haven't been getting this lecture every year, forever?'. Not only was the information presented succinct and relevant, but it was presented in a clear and accessible manner."
+
 "This lecture is a great addition to the SLS!"
+
 "Really liked the question script for PID (primary immunodeficiency)"
+
 "Great! Would like to hear more about anaphylaxis"
+
 "More cases"
+
 "Great!"
+
 "Great talk!"
+
 "This was awesome"
