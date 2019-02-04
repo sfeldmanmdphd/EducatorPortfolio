@@ -22,7 +22,7 @@ draft: false
 
 * Creator of [Educational Videos for Patients](../pages/videos/)
 
-* Creator of an [educational brochure on urticaria (hives)] for patients(../img/Hives Brochure.pdf)
+* Creator of an [educational brochure on urticaria (hives)](../img/Hives Brochure.pdf) for patients
 
 * Presented on Drug Allergy at Penn Section of Allergy/Immunology weekly conference
 
