@@ -17,12 +17,9 @@ I developed this course modeled after my immunology training in fellowship. Inst
 
 [Example Worksheet - Session 2] (https://docs.google.com/document/d/e/2PACX-1vSU0ascI-eNEkd6X2n_HuDoXEunbFp22mYprL0wHHzaDX4Mw66nPoQbOtSQ559Bnqzq-SQZzVd0LPoQ/pub "Worksheet for Session 2 as published Googledoc")
 
-#### Learner Feedback
-Start of course (informal)  
-  “In informal talks, we all feel this Immunology review course structure is excellent. Should work out well.”  
+#### Learner Feedback    
+  Evaluation Comments (2017-2018):  
   “Today was great! I snapchatted 'immunology fun' over my thymus cartoon I drew on the board!"  
-  
-  Evaluation Comments (2017-2018): 
   "It is a great idea to present the topics as a work sheet to master."  
   "Quiz was very helpful to get a flavor of what ABAI immuno questions would be like and also see what concepts I didn't understand/remember. Liked the outlines. A much better alternative than reading the textbook line by line, which frankly, SUCKS."  
   "I think the course is incredible helpful"  
