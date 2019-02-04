@@ -12,9 +12,21 @@ draft: false
 
 ## Miscellaneous Academic Projects and Seminars
 
+### 2019
+
+* Presented on Food Allergy at Penn Section of Allergy/Immunology weekly conference
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFRIwqPSzyOMFmvFqFdo93L0OAqPqxDupPLi1z8TLJPukUrCpEHlu3q9Ex--tG9F_6Jgw7Q1BLk1B6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### 2018
 
 * Creator of [Educational Videos for Patients](../pages/videos/)
+
+* Creator of an educational brochure on urticaria (hives) for patients
+
+* Presented on Drug Allergy at Penn Section of Allergy/Immunology weekly conference
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTMZLI8iXFQNa_5r1y7Le7NjVF3Ae0h5SCrYQOiaI0AlEb0A737Za0uf1h6rDFvvKqr9k4wXEC3AKW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### 2017
 
