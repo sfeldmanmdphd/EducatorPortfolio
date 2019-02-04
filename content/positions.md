@@ -16,6 +16,7 @@ draft: false
 * 2016-2017 Chief Fellow 
 
 #### Administrative Service
+* 2019 Penn Allergy / Immunology Clinic Challenge Protocols Task Force
 * 2018 Penn Allergy / Immunology Wait List Task Force
 * 2018 Penn Allergy / Immunology Penicillin Allergy Committee
 * 2017 Penn Allergy / Immunology Fellowship Self-Study Committee
