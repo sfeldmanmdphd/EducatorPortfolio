@@ -137,6 +137,12 @@ googleAnalytics = ""
         url = "pages/drugallergy"
 
     [[params.tiles.showcase]]
+        title = "Allergic Rhinoconjunctivitis for Medical Students"
+        subtitle = "Created and taught an online session on allergic rhinoconjunctivitis"
+        image = "AR.jpg"
+        url = "pages/rhinitis"
+
+    [[params.tiles.showcase]]
         title = "Other Curriculum Development & Direct Teaching"
         subtitle = "Miscellaneous other projects and lectures"
         image = "WhiteCoat.jpg"
