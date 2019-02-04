@@ -22,10 +22,9 @@ Start of course (informal)
   “In informal talks, we all feel this Immunology review course structure is excellent. Should work out well.”  
   “Today was great! I snapchatted 'immunology fun' over my thymus cartoon I drew on the board!"  
   
-  Block 1 Evaluation  
+  Evaluation Comments (2017-2018): 
   "It is a great idea to present the topics as a work sheet to master."  
   "Quiz was very helpful to get a flavor of what ABAI immuno questions would be like and also see what concepts I didn't understand/remember. Liked the outlines. A much better alternative than reading the textbook line by line, which frankly, SUCKS."  
   "I think the course is incredible helpful"  
   "Thank you for all your hard work in getting this course started! The textbook is very dense, so these sessions help break it apart in a more understandable manner."  
-  Further Evaluations  
-  Pending
+  "Quiz should be self graded. Grade should be irrelevant. For worksheets it would be helpful to point out relevant tables per question to help pinpoint reading for those unable to read full chapter each week but do have time for a pointed review."
