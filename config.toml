@@ -125,12 +125,6 @@ googleAnalytics = ""
         url = "pages/m1immunology"
 
     [[params.tiles.showcase]]
-        title = "Medical Decision Making for First-Year Medical Students"
-        subtitle = "Small Group Leader"
-        image = "Poster.jpg"
-        url = "pages/mdm"
-
-    [[params.tiles.showcase]]
         title = "Drug Allergy for Internal Medicine Residents"
         subtitle = "Developed and facilitated a session on inpatient and outpatient drug allergy"
         image = "Sulfa.jpg"
@@ -147,6 +141,12 @@ googleAnalytics = ""
         subtitle = "Created and facilitated a session for Pulmonary Fellows boot camp"
         image = "Pulm.jpg"
         url = "pages/pulm"
+
+[[params.tiles.showcase]]
+        title = "Medical Decision Making for First-Year Medical Students"
+        subtitle = "Small Group Leader"
+        image = "Poster.jpg"
+        url = "pages/mdm"
 
     [[params.tiles.showcase]]
         title = "Other Curriculum Development & Direct Teaching"
