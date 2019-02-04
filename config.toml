@@ -139,8 +139,14 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
         title = "Allergic Rhinoconjunctivitis for Medical Students"
         subtitle = "Created and taught an online session on allergic rhinoconjunctivitis"
-        image = "AR.jpg"
+        image = "ARVal.jpg"
         url = "pages/rhinitis"
+        
+    [[params.tiles.showcase]]
+        title = "Immunodeficiency and Pulmonary Disease for Pulmonary Fellows"
+        subtitle = "Created and facilitated a session for Pulmonary Fellows boot camp"
+        image = "Pulm.jpg"
+        url = "pages/pulm"
 
     [[params.tiles.showcase]]
         title = "Other Curriculum Development & Direct Teaching"
