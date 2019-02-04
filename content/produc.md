@@ -24,6 +24,8 @@ draft: false
 
 * Creator of an [educational brochure on urticaria (hives)](../img/Hives Brochure.pdf) for patients
 
+* [Co-author Grayson et al. Advances in asthma in 2017: Mechanisms, biologics, and genetics. J Allergy Clin Immunol. 2018 Nov;142(5):1423-1436.](https://www.ncbi.nlm.nih.gov/pubmed/30213625)
+
 * Presented on Drug Allergy at Penn Section of Allergy/Immunology weekly conference
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTMZLI8iXFQNa_5r1y7Le7NjVF3Ae0h5SCrYQOiaI0AlEb0A737Za0uf1h6rDFvvKqr9k4wXEC3AKW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="375" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
