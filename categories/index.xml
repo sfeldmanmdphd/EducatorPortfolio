@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Scott Feldman</title>
+    <title>Scott Feldman</title>
     <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/</link>
-    <description>Recent content in Categories on Scott Feldman</description>
+    <description>Recent content on Scott Feldman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 May 2018 19:23:11 -0500</lastBuildDate>
@@ -12,48 +12,218 @@
     
     
     <item>
-      <title></title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/</link>
+      <title>Learn More</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/sitenav/</link>
       <pubDate>Sat, 19 May 2018 19:23:11 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/</guid>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/sitenav/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cv</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/cv/</link>
-      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      <title>Patient Educational Videos</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/videos/</link>
+      <pubDate>Mon, 08 Jan 2018 09:42:51 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/cv/</guid>
-      <description></description>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/videos/</guid>
+      <description>As an academic clinician at Penn, I found myself repeating certain illness scripts and treatment scripts throughout the day. Often times I would draw a cartoon to help explain a concept to a patient. To improve my efficiency and improve patient care, I designed and created a series of educational videos for patients to watch during their visit.
+Oral Allergy Syndrome  Nose Sprays  More to come&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Fellows Immunology Course</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/fellows-immunology-course/</link>
+      <title>Patient Educational Videos</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/videos/</link>
+      <pubDate>Mon, 08 Jan 2018 09:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/videos/</guid>
+      <description>As an academic clinician at Penn, I found myself repeating certain illness scripts and treatment scripts throughout the day. Often times I would draw a cartoon to help explain a concept to a patient. To improve my efficiency and improve patient care, I designed and created a series of educational videos for patients to watch during their visit.
+Oral Allergy Syndrome  Nose Sprays  More to come&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Basic Immunology for Allergy/Immunology Fellows</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/fellowsimmunology/</link>
       <pubDate>Sat, 25 Nov 2017 19:57:03 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/fellows-immunology-course/</guid>
-      <description></description>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/fellowsimmunology/</guid>
+      <description>I developed this course modeled after my immunology training in fellowship. Instructional methodology employs a flipped classroom with active learning via worksheets prior to sessions, with learning sessions focused on discussing material, addressing questions, and exploring some topics in greater depth. Topics are generally organized in the order of the textbook. Currently I am the main instructor as well, leading about 80% of the sessions. As the course grows and repeats, I anticipate senior fellows leading sessions, and expanding to include other faculty who feel comfortable leading the discussion of any topics.</description>
     </item>
     
     <item>
-      <title>Medical Student Invited Lecture</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-invited-lecture/</link>
+      <title>Molecular Mimicry? Connecting The Basic &amp; Clinical Science of Allergy &amp; Immunology</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/uic/</link>
       <pubDate>Sat, 25 Nov 2017 19:30:09 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-invited-lecture/</guid>
-      <description></description>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/uic/</guid>
+      <description>In summer 2017, to celebrat the 10-year anniversary of my MD/PhD training program obtaining NIH-funding as an MSTP, I was invited to give the keynote address at this program, with a dinner seminar for the students. I used the opportunity to highlight why I chose my specialty with real clinical cases, review some unanswered research questions, discuss some recent groundbreaking papers in therapeutics and management, and finally to demonstrate and role model some techniques in medical education.</description>
     </item>
     
     <item>
-      <title>Medical Student Small Groups</title>
-      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-small-groups/</link>
+      <title>Medical Decision Making for First-Year Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/mdm/</link>
       <pubDate>Sat, 25 Nov 2017 19:30:00 -0500</pubDate>
       
-      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/categories/medical-student-small-groups/</guid>
-      <description></description>
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/mdm/</guid>
+      <description>At Northwestern University in the fall of 2016 and the spring of 2017, I led a small group for first-year medical students as part of the Medical Decision Making course. I had 3 different groups of 10-12 students, each for 5 sessions on average every other week (then instructors would rotate groups). Topics included Diagnostics, Advanced Decision Making, Case Control and Cohorts, Risk Harm and Association, Prognosis, Screening, Threshold Actions, Clinical Prediction Rules, Decision Analysis, Cost Effective Analysis, Guidelines &amp;amp; Policy.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/about/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/about/</guid>
+      <description>I grew up in Ft. Lauderdale, Florida. I went to medical school in Chicago and fell in love with the city, although Philadelphia is growing on me since August 2017. When I’m not seeing patients or teaching, I like enjoy running, biking, cooking, finding a new ethnic restaurant, and sharing fun (anonymous, HIPAA-friendly) stories of funny, interesting, memorable patients. Medium-term, I would like to be course director of basic immunology for first-year medical students, and allergy/immunology fellowship program director.</description>
+    </item>
+    
+    <item>
+      <title>Academic Productivity</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/produc/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/produc/</guid>
+      <description> Miscellaneous Academic Projects and Seminars 2018  Creator of Educational Videos for Patients  2017  Keynote Speaker at UIC MSTP Dinner Seminar: Molecular Mimicry? Connecting The Basic &amp;amp; Clinical Science of Allergy &amp;amp; Immunology  2016  Feldman, S (Chapter Co-author, Chapter 7: Pharmacology and Therapeutics.) 2016 ACAAI Review for the Allergy &amp;amp; Immunology Boards: Third Edition. Dr. David Stukus, Editor.  </description>
+    </item>
+    
+    <item>
+      <title>Areas of Teaching Competence</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/areas/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/areas/</guid>
+      <description> Educational Metholodologies  Facilitating discussion for small group learning Presenting content for large group / lectures Creating asynchronous learning modules Developing technology to assist in active learning  Content Expertise  Allergic diseases and management Basic &amp;amp; clinical immunology Creating learning objectives Developing assessment tools  </description>
+    </item>
+    
+    <item>
+      <title>Honors &amp; Awards</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/honors/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/honors/</guid>
+      <description> 2018 Burton Zweiman Teaching Award for Faculty in Allergy &amp;amp; Immunology 2017 Illinois Society of Allergy, Asthma, &amp;amp; Immunology Fellow’s Research Award 2017 Northwestern Teaching Award for Basic Science, “Stellar Teaching Contribution” 2016- 2017 Academic Year End Teaching Award, Outstanding Fellow Educator 2012 Granville Bennett Award for Medical Education  </description>
+    </item>
+    
+    <item>
+      <title>Medical Training, Licensure, and Certification</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/training/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/training/</guid>
+      <description> Education  2002 B.S. Biochemistry, University of Florida 2012 M.D. University of Illinois at Chicago College of Medicine 2012 Ph.D. Immunology, Univ. of IL at Chicago College of Medicine  Postdoctoral Training  2012-2013 Intern in Internal Medicine, Icahn School of Medicine at Mount Sinai, New York, NY 2013-2015 Resident in Internal Medicine, Icahn School of Medicine at Mount Sinai, New York, NY 2015-2017 Fellow in Allergy / Immunology, Northwestern University Feinberg School of Medicine, Chicago, IL 2016-2018 Medical Education Clinical Scholars Certificate, Northwestern University Feinberg School of Medicine, Chicago, IL  Licensure and Certification  2014-2015 Medical License State of New York 2015-2017 Medical License State of Illinois 2017-pres Medical License State of Pennsylvania 2013 National Board of Medical Examiners 2015 American Board of Internal Medicine 2017 American Board of Allergy &amp;amp; Immunology  </description>
+    </item>
+    
+    <item>
+      <title>Other Curriculum Development &amp; Direct Teaching</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/other/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/other/</guid>
+      <description>Miscellaneous Older Curriculum Development Co-founder, Medical Education Track, Icahn School of Medicine at Mount Sinai, 2013-2015 I worked with Vice Chair for Education Dr. David Thomas to develop a Medical Education Track for the Internal Medicine Residency Program at Icahn School of Medicine at Mount Sinai. I developed a curriculum outline and assessment methods, and facilitated implementation of a pilot track year beginning in July 2015 (after my completion of residency).</description>
+    </item>
+    
+    <item>
+      <title>Positions &amp; Service</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/positions/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/positions/</guid>
+      <description>Positions  2017 Assistant Professor of Medicine 2018 Assistant Fellowship Program Director, Penn Allergy &amp;amp; Immunology 2017 Course Director, Fellows Immunology Course 2016-2017 Chief Fellow  Administrative Service  2018 Penn Allergy / Immunology Wait List Task Force 2018 Penn Allergy / Immunology Penicillin Allergy Committee 2017 Penn Allergy / Immunology Fellowship Self-Study Committee 2013-2015 Curriculum Committee, Internal Medicine Residency 2010-2012 Ad Hoc Committee on Curriculum Transformation, Member 2008-2010 MSTP Admissions Committee, Member</description>
+    </item>
+    
+    <item>
+      <title>Professional Development in Medical Education and Leadership</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/profdev/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/profdev/</guid>
+      <description> 2017 ACAAI Leadership Summit: Generation Next Participant 2016-2018 Medical Education Clinical Scholars Program, Northwestern University Feinberg School of Medicine, Chicago, IL 2014 Harvard-Macy Institute Program for Post-Graduate Trainees: Future Academic Clinician-Educators  </description>
+    </item>
+    
+    <item>
+      <title>Teaching &amp; Education Philosophy</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/philosophy/</link>
+      <pubDate>Sat, 25 Nov 2017 19:23:11 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/philosophy/</guid>
+      <description>My approach to teaching is easy to summarize: get to know the learner, discover her needs, and facilitate the development of knowledge and skills — usually with a sense of humor. My approach to education is similarly easy to summarize: optimal learning is best accomplished actively, via a modernized, well-designed and executed, and continuously improving curriculum. Every day I integrate these two approaches to teaching and education in my journey to be a leader in medical education.</description>
+    </item>
+    
+    <item>
+      <title>Allergic Rhinoconjunctivitis for Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/rhinitis/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/rhinitis/</guid>
+      <description>As faculty at Penn, I was invited to create a lecture on allergic rhinitis for third-year medical students as a part of their Pulmonary Medicine curriculum in Medicine Clerkship. The slides are below.
+ Learner Evaluations 2018-2019 Pending</description>
+    </item>
+    
+    <item>
+      <title>Allergic Rhinoconjunctivitis for Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/rhinitis/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/rhinitis/</guid>
+      <description>As faculty at Penn, I was invited to create a lecture on allergic rhinitis for third-year medical students as a part of their Pulmonary Medicine curriculum in Medicine Clerkship. The slides are below.
+ Learner Evaluations 2018-2019 Pending</description>
+    </item>
+    
+    <item>
+      <title>Basic &amp; Clinical Immunology for Senior Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</guid>
+      <description>As a Fellow at Northwestern, I worked on a medical education project to apply the principles of adult learning theory and active learning by integrating basic immunology content with asynchoronous web-based learning technology. I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material. This was implemented at Northwestern University in the Fall of 2016, and I am working with my mentor Dr.</description>
+    </item>
+    
+    <item>
+      <title>Basic &amp; Clinical Immunology for Senior Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m3immunology/</guid>
+      <description>As a Fellow at Northwestern, I worked on a medical education project to apply the principles of adult learning theory and active learning by integrating basic immunology content with asynchoronous web-based learning technology. I developed a five-part video series for a “flipped classroom” where students watched lectures before in-person sections designed to reinforce what they had learned and give immediate feedback on their understanding of the material. This was implemented at Northwestern University in the Fall of 2016, and I am working with my mentor Dr.</description>
+    </item>
+    
+    <item>
+      <title>Basic Immunology for First-Year Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m1immunology/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m1immunology/</guid>
+      <description>Since joining the faculty at Unversity of Pennsylvania, I co-led an M1 Immunology small group for 6 session in the fall of 2017. 18 students led themselves through immunology cases prepared by the course directors, and I facilitated discussion of the material.
+In the fall of 2016, I was an instructor in the Basic Immunology course for M1 students at Northwestern University Medical School. I gave the large group lectures on Effector Functions of Humoral Immunity, Mucosal Immunology, and Immunity to Microbes to the class of ~150 students, who either attended in person and/or watched online.</description>
+    </item>
+    
+    <item>
+      <title>Basic Immunology for First-Year Medical Students</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m1immunology/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/m1immunology/</guid>
+      <description>Since joining the faculty at Unversity of Pennsylvania, I co-led an M1 Immunology small group for 6 session in the fall of 2017. 18 students led themselves through immunology cases prepared by the course directors, and I facilitated discussion of the material.
+In the fall of 2016, I was an instructor in the Basic Immunology course for M1 students at Northwestern University Medical School. I gave the large group lectures on Effector Functions of Humoral Immunity, Mucosal Immunology, and Immunity to Microbes to the class of ~150 students, who either attended in person and/or watched online.</description>
+    </item>
+    
+    <item>
+      <title>Drug Allergy for Internal Medicine Residents</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/drugallergy/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/drugallergy/</guid>
+      <description>As faculty at Penn, I was invited to give a noon conference for the interns and residents in the internal medicine residency program. I selected a topic for which we commonly received consults, and then developed cases, MKSAP-style multiple choice questions, and a presentation, and then led an educational session. The slides are below. This session began in 2018, and was repeated in 2019 for mulitple noon conferences.
+ Learner Evaluations 2017-2018 Overall evaluation (N=12 of ~30)</description>
+    </item>
+    
+    <item>
+      <title>Drug Allergy for Internal Medicine Residents</title>
+      <link>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/drugallergy/</link>
+      <pubDate>Fri, 24 Nov 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://sfeldmanmdphd.github.io/EducatorPortfolio/pages/drugallergy/</guid>
+      <description>As faculty at Penn, I was invited to give a noon conference for the interns and residents in the internal medicine residency program. I selected a topic for which we commonly received consults, and then developed cases, MKSAP-style multiple choice questions, and a presentation, and then led an educational session. The slides are below. This session began in 2018, and was repeated in 2019 for mulitple noon conferences.
+ Learner Evaluations 2017-2018 Overall evaluation (N=12 of ~30)</description>
     </item>
     
   </channel>
