@@ -27,6 +27,6 @@ As faculty at Penn, I was invited to give a noon conference for the interns and 
 "Great, learned a lot!"  
 "Enjoyed the QA format"
 
-2018-2019 Comments
-"I thought it was a great session. I love learning through questions, so this helped me stay engaged."
+2018-2019 Comments  
+"I thought it was a great session. I love learning through questions, so this helped me stay engaged."  
 "Q and A format is good, I find it engaging."
