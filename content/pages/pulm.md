@@ -15,7 +15,7 @@ draft: false
 As faculty at Penn, I was invited to create and give a lecture on immune deficiencies and pulmonary disease for the pulmonary fellows "Summer Lecture Series" for new and continuing fellows. Both pulmonary fellows and faculty attended.  
 The slides are below. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-QGcH6lSjZPHbSfBgnHp1fYNLH3mi-poLdRoS5MnveewIrxUORfszvKDeLseqwjL40Vt81UzhhZiX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-QGcH6lSjZPHbSfBgnHp1fYNLH3mi-poLdRoS5MnveewIrxUORfszvKDeLseqwjL40Vt81UzhhZiX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Learner Evaluations
 2018-2019  
