@@ -34,10 +34,11 @@ e) Recognition via Toll-like receptor*
 
 ## Learner Evaluations
 2017 University of Pennsylvania - Pending
-{{% contentdiv class="row" %}}
-{{% contentdiv class="6u 12u$(small)" %}}
 
 2016 Northwestern University  
+
+{{% contentdiv class="row" %}}
+{{% contentdiv class="6u 12u$(small)" %}}
 “Dr. Feldman’s lectures were very organized and effective. I really enjoyed his lecturing style."  
 “Dr. Feldman was a fantastic and engaging lecturer. His lectures were very well organized and were delivered in an appropriate pace. I really enjoyed his lectures and appreciate him highlighting the main take away points from his lectures so we were not buried under small details. I wish he will give more lectures in the future."  
 “I really enjoyed Dr. Feldman's lectures and how he guided our studying by telling us what topics we should focus on for the FDN 3 exam. His lectures were clear and presented with confidence. I hope we have more sessions with Dr. Feldman in the future."  
