@@ -20,7 +20,7 @@ I prepared learning guides for students to review in advance of the lecture.
 
 I also prepared and gave 3 large group presentations.
 This is an example of the presentation on Effector Functions of Humoral Immunity
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwFb7rbMBsK98V7VFn13iLgr8Cp2ltsmx4wLciuqeX4Iv6OTAd5aB8rTrOiRS5RacWwDCoidiMJJMT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwFb7rbMBsK98V7VFn13iLgr8Cp2ltsmx4wLciuqeX4Iv6OTAd5aB8rTrOiRS5RacWwDCoidiMJJMT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="375" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Finally, I wrote and submitted MCQs for the three topics I covered.  
 Here is an example question that I wrote for the Immunity to Microbes session:  
