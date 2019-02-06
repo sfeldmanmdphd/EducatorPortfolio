@@ -54,8 +54,6 @@ Overall evaluation 2017-2018 (N=30) <br />
 <img src="../../img/m3-evaluation.png" alt="Overall Evaluation" />
 
 ## Qualitative Feedback
-“I thought this was a very solid way to present this information. The topic is very broad, though, so I was sometimes lost by the details. It seems quite difficult to get all of this material into a short primer like this, but it was done effectively enough for me to learn some of the key points”
-
-"I think this would be an interesting session for individuals interested in immunology."
-
+“I thought this was a very solid way to present this information. The topic is very broad, though, so I was sometimes lost by the details. It seems quite difficult to get all of this material into a short primer like this, but it was done effectively enough for me to learn some of the key points”  
+"I think this would be an interesting session for individuals interested in immunology."  
 “I prefer to do this in class; not a good individual study format.”
